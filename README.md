@@ -118,7 +118,7 @@ Por favor digite su número de identidad y dé clic en el botón consultar.
 const baseDatos = {
     "1016718262": {
         preparacion: "8509757521",
-        fecha: "31 de Noviembre de 2024",
+        fecha: "28 de Enero de 2026",
         oficina: "BOGOTÁ - CUNDINAMARCA",
         estado: "Su trámite se encuentra en verificación de información, validación y elaboración."
     },
