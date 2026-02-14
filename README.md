@@ -120,12 +120,6 @@ const baseDatos = {
         fecha: "28 de Enero de 2026",
         oficina: "BOGOTÁ - CUNDINAMARCA",
         estado: "Su trámite se encuentra en verificación de información, validación y elaboración."
-       
-            "1013624088": {
-    preparacion: "9999999999",
-    fecha: "01 de Enero de 2025",
-    oficina: "BARRANQUILLA - ATLÁNTICO",
-    estado: "Documento en producción."
 }
 
     },
