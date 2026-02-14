@@ -123,8 +123,8 @@ const baseDatos = {
     },
     "1013624088": {
         preparacion: "7745123698",
-        fecha: "12 de Octubre de 2024",
-        oficina: "MEDELLÍN - ANTIOQUIA",
+        fecha: "29 de julio de 2026",
+        oficina: "BOGOTÁ - CUNDINAMARCA",
         estado: "Su documento está listo para ser reclamado en la oficina seleccionada."
     },
     "9876543210": {
