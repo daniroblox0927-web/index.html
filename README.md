@@ -122,7 +122,7 @@ const baseDatos = {
         oficina: "BOGOTÁ - CUNDINAMARCA",
         estado: "Su trámite se encuentra en verificación de información, validación y elaboración."
     },
-    "1234567890": {
+    "1013624088": {
         preparacion: "7745123698",
         fecha: "12 de Octubre de 2024",
         oficina: "MEDELLÍN - ANTIOQUIA",
